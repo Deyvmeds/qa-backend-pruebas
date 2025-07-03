@@ -9,3 +9,6 @@
 
 **Resultado actual:**
 - Error 500 del servidor
+
+** notas del QA **
+Este error ocurre solo cuando se usa el token generado en el entorno de staging
